@@ -8,19 +8,19 @@ SCENES
 
     [x] Você deseja criar pontos na história da produção do seu projeto
 
-    [x] VVocê deseja verificar mudanças feitas no seu projeto
+    [x] Você deseja verificar mudanças feitas no seu projeto
 
-    [x] VVocê começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.
+    [x] Você começa uma nova funcionalidade no seu projeto, sem estragar o que já foi feito.
 
-    [x] VVocê adiciona as novas funcionalidades ao seu projeto em produção
+    [x] Você adiciona as novas funcionalidades ao seu projeto em produção
 
-    [x] VVocê quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
+    [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
 
-    [x] VVocê quer colocar seu projeto na nuvem.
+    [x] Você quer colocar seu projeto na nuvem.
 
-    [x] VVocê vai pegar um projeto já iniciado, para trabalhar com o time
+    [x] Você vai pegar um projeto já iniciado, para trabalhar com o time
 
-    [x] VVocê precisa resolver um conflito.
+    [x] Você precisa resolver um conflito.
 
     [x] VAntes de enviar a resolução, precisamos atualizar o projeto local.
 
